@@ -3,6 +3,8 @@ This repository contains my final submission for Deakin Simpsons Challenge - 202
 
 
 **About Deakin Simpsons Challenge**
+
+
 The Deakin Simpsons challenge 2021 is a computer vision competition for which the goal is to recognize Simpsons characters individually in images using machine learning/deep learning.Specifically, we build a Deep Learning/Machine Learning model to automatically identify the following characters from a dataset that contained 19,548 images.
 1. Abraham grampa Simpson
 2. Apu Nahasapeemapetilon
