@@ -1,5 +1,5 @@
-# Deakin-Simpsons-Challenge---2021
-This repository contains my final submission for Deakin Simpsons Challenge - 2021.We used Resnet151v2 to identify the characters.The final accuracy of the model is 98.2% on a private test dataset.This model scored an accuracy of 99.2% on train data.This model is one of the top 5 models in the competition.
+# Deakin-Simpsons-Challenge-2021
+This repository contains my final submission for Deakin Simpsons Challenge - 2021.We used Resnet151v2 to identify the characters.The final accuracy of the model is 98.2% on a private test dataset.This model scored an accuracy of 99.2% on train data.This model is one of the top 5 models in the competition. For more information about the model and it's implementation and accuracy, please refer to the PDF uploaded (vinayakam19) in this repository
 
 
 **About Deakin Simpsons Challenge**
